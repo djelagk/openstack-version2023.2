@@ -1,4 +1,0 @@
----
-fixes:
-  - |
-    Fixes prometheus grafana datasource using incorrect basic auth credentials.

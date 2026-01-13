@@ -1,5 +1,0 @@
----
-upgrade:
-  - |
-    Default keystone user role has been changed from deprecated role
-    ``_member_`` to ``member`` role.

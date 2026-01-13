@@ -1,5 +1,0 @@
----
-fixes:
-  - |
-    Fixed an issue with the ``prometheus.yml`` template which would break when
-    deploying alertmanager.

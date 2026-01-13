@@ -1,5 +1,0 @@
----
-upgrade:
-  - |
-    Remnants of Monasca, Storm, Kafka and Zookeeper have been removed
-    (including ``kolla-ansible monasca_cleanup`` command).

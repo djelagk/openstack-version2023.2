@@ -1,6 +1,0 @@
----
-fixes:
-  - |
-    Fixes skyline's old format of stop task.
-    It used docker_container which would cause
-    problems with podman deployments.

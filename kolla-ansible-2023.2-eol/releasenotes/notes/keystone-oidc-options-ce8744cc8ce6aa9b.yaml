@@ -1,5 +1,0 @@
----
-features:
-  - |
-    Adds ``keystone_federation_oidc_additional_options`` that allows to pass
-    additional OIDC options.

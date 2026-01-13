@@ -1,5 +1,0 @@
----
-fixes:
-  - |
-    Fixes nova-cell not updating the cell0 database address when VIP changes.
-    `LP#1915302 <https://launchpad.net/bugs/1915302>`__

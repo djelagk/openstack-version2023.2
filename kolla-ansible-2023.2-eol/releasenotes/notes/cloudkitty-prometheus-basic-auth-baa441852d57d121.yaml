@@ -1,5 +1,0 @@
----
-fixes:
-  - |
-    Fixes CloudKitty failing to query Prometheus now that basic authentication
-    is required.

@@ -1,6 +1,0 @@
----
-features:
-  - |
-    Added capability to specify custom kernel modules for Neutron:
-    `neutron_modules_default`: Lists default modules.
-    `neutron_modules_extra`: For custom modules and parameters.

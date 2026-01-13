@@ -1,5 +1,0 @@
----
-upgrade:
-  - |
-    Since kolla-ansible now also supports Podman, ansible module
-    kolla_docker has been renamed to kolla_container.

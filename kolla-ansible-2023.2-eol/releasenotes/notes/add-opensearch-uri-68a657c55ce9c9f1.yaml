@@ -1,4 +1,0 @@
----
-fixes:
-  - |
-    Fixes an deploy opensearch with enable TLS on the internal VIP.

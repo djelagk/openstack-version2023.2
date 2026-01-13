@@ -1,6 +1,0 @@
----
-features:
-  - |
-    With the parameter ``mariadb_datadir_volume`` it is possible
-    to use a directory as volume for the mariadb service. By default,
-    a volume named mariadb is used (the previous default).

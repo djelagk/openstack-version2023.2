@@ -1,5 +1,0 @@
----
-fixes:
-  - |
-    Fixes handling of openvswitch on ``manila-share`` nodes.
-    `LP#1993285 <https://launchpad.net/bugs/1993285>`__

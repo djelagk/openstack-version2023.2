@@ -1,5 +1,0 @@
----
-fixes:
-  - |
-    Fixes an issue with prometheus scraping itself now that basic auth has
-    been enabled.
